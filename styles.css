@@ -1,4 +1,4 @@
-/* ========== Дизайн-токены Fresh Decor ========== */
+/* ========== Р”РёР·Р°Р№РЅ-С‚РѕРєРµРЅС‹ Fresh Decor ========== */
 :root {
   --bg: #ffffff;
   --bg-soft: #f7f8f9;
@@ -39,38 +39,88 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
 
 .hidden { display: none !important; }
 
-/* ========== Шапка ========== */
+/* ========== РЁР°РїРєР° ========== */
 .header {
   position: sticky;
   top: 0;
   z-index: 50;
-  background: var(--bg);
-  padding: 14px 16px;
-  padding-top: calc(14px + env(safe-area-inset-top));
-  display: grid;
-  grid-template-columns: 40px 1fr 40px;
-  align-items: center;
-  gap: 8px;
-  border-bottom: 1px solid var(--line-soft);
-}
-
-.header-brand {
+  min-height: 102px;
+  padding: 18px 16px 20px;
+  padding-top: calc(18px + env(safe-area-inset-top));
+  background:
+    radial-gradient(circle at 50% 20%, rgba(255, 255, 255, 0.98), rgba(255, 255, 255, 0.86) 52%, rgba(255, 255, 255, 0.72));
+  border-bottom: 1px solid rgba(236, 236, 236, 0.64);
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: visible;
+}
+
+.header::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -18px;
+  width: min(420px, 72vw);
+  height: 52px;
+  transform: translateX(-50%);
+  background: radial-gradient(ellipse at center, rgba(135, 211, 177, 0.17), rgba(255, 255, 255, 0));
+  filter: blur(18px);
+  pointer-events: none;
+}
+
+.header-brand {
+  position: absolute;
+  left: 50%;
+  top: calc(50% + env(safe-area-inset-top) / 2);
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: clamp(210px, 46vw, 300px);
+  height: 74px;
+  padding: 0 40px;
+  border-radius: var(--radius-pill);
+  background:
+    linear-gradient(135deg, rgba(255,255,255,0.92), rgba(255,255,255,0.56)),
+    radial-gradient(circle at 28% 18%, rgba(255,255,255,0.96), rgba(255,255,255,0) 34%),
+    radial-gradient(circle at 78% 76%, rgba(232,243,237,0.92), rgba(232,243,237,0) 45%);
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  box-shadow:
+    0 18px 42px rgba(26, 26, 26, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    inset 0 -1px 0 rgba(26, 26, 26, 0.04);
+  -webkit-backdrop-filter: blur(22px) saturate(1.25);
+  backdrop-filter: blur(22px) saturate(1.25);
+  pointer-events: none;
+}
+
+.header-brand::before {
+  content: "";
+  position: absolute;
+  inset: 7px;
+  border-radius: inherit;
+  border: 1px solid rgba(255, 255, 255, 0.58);
+  box-shadow: inset 0 0 24px rgba(255, 255, 255, 0.52);
 }
 
 .brand-logo {
-  height: 32px;
+  position: relative;
+  z-index: 1;
+  height: 38px;
   width: auto;
-  max-width: 200px;
+  max-width: 170px;
   object-fit: contain;
   display: block;
 }
 
 .header-icon {
-  background: var(--bg-soft);
-  border: none;
+  position: absolute;
+  left: 16px;
+  top: calc(50% + env(safe-area-inset-top) / 2);
+  transform: translateY(-50%);
+  background: rgba(247, 248, 249, 0.78);
+  border: 1px solid rgba(236, 236, 236, 0.8);
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -79,12 +129,14 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   justify-content: center;
   cursor: pointer;
   color: var(--ink);
-  transition: background 0.15s;
+  transition: background 0.15s, transform 0.15s;
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
 }
-.header-icon:active { background: var(--line); }
-.header-icon--ghost { background: transparent; pointer-events: none; }
+.header-icon:active { background: var(--line); transform: translateY(-50%) scale(0.96); }
+.header-icon--ghost { display: none; }
 
-/* ========== Экраны ========== */
+/* ========== Р­РєСЂР°РЅС‹ ========== */
 .screen {
   padding: 18px 16px 24px;
   max-width: 640px;
@@ -93,10 +145,32 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
 
 /* ========== Hero ========== */
 .hero {
-  background: var(--bg-mint);
-  border-radius: var(--radius-lg);
-  padding: 24px 22px 22px;
-  margin-bottom: 22px;
+  position: relative;
+  isolation: isolate;
+  background:
+    radial-gradient(circle at 14% 10%, rgba(255, 255, 255, 0.96), rgba(255, 255, 255, 0) 34%),
+    radial-gradient(circle at 92% 16%, rgba(135, 211, 177, 0.22), rgba(135, 211, 177, 0) 36%),
+    linear-gradient(135deg, rgba(232, 243, 237, 0.82), rgba(247, 248, 249, 0.74));
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 30px;
+  padding: 26px 22px 24px;
+  margin-bottom: 24px;
+  box-shadow:
+    0 20px 56px rgba(26, 26, 26, 0.055),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  overflow: hidden;
+  -webkit-backdrop-filter: blur(18px) saturate(1.18);
+  backdrop-filter: blur(18px) saturate(1.18);
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: -42% -18% auto auto;
+  width: 260px;
+  height: 260px;
+  background: radial-gradient(circle, rgba(255,255,255,0.72), rgba(255,255,255,0));
+  filter: blur(10px);
+  z-index: -1;
 }
 .hero-title {
   font-size: 22px;
@@ -106,8 +180,9 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   margin-bottom: 10px;
 }
 .hero-sub {
+  max-width: 470px;
   font-size: 14px;
-  line-height: 1.45;
+  line-height: 1.46;
   color: var(--ink-soft);
   margin-bottom: 18px;
 }
@@ -126,18 +201,23 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
 .search-box input {
   width: 100%;
   padding: 14px 18px 14px 44px;
-  border: 1px solid transparent;
+  border: 1px solid rgba(255, 255, 255, 0.82);
   border-radius: var(--radius-pill);
-  background: #fff;
+  background: rgba(255,255,255,0.78);
+  box-shadow:
+    0 12px 30px rgba(26, 26, 26, 0.04),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
   font-family: var(--font);
   font-size: 14px;
   color: var(--ink);
   outline: none;
 }
 .search-box input::placeholder { color: var(--ink-muted); }
-.search-box input:focus { border-color: var(--mint); }
+.search-box input:focus { border-color: rgba(135, 211, 177, 0.9); }
 
-/* ========== Каталог: заголовок + чипы ========== */
+/* ========== РљР°С‚Р°Р»РѕРі: Р·Р°РіРѕР»РѕРІРѕРє + С‡РёРїС‹ ========== */
 .catalog-header {
   display: flex;
   justify-content: space-between;
@@ -182,7 +262,7 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
 .chip:active { background: var(--line); }
 .chip.active { background: var(--ink); color: #fff; }
 
-/* ========== Сетка товаров ========== */
+/* ========== РЎРµС‚РєР° С‚РѕРІР°СЂРѕРІ ========== */
 .products-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -207,21 +287,72 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   position: relative;
   width: 100%;
   aspect-ratio: 1;
-  background: var(--bg-soft);
+  background:
+    radial-gradient(circle at 24% 14%, rgba(255,255,255,0.96), rgba(255,255,255,0) 32%),
+    linear-gradient(135deg, rgba(232,243,237,0.9), rgba(240,247,243,0.68));
   overflow: hidden;
 }
-.product-card-image img {
+.product-card-image::before {
+  content: "";
+  position: absolute;
+  inset: -36%;
+  background:
+    radial-gradient(circle at 26% 22%, rgba(255,255,255,0.86), rgba(255,255,255,0) 30%),
+    radial-gradient(circle at 74% 12%, rgba(135,211,177,0.22), rgba(135,211,177,0) 34%);
+  filter: blur(24px);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.product-card-image.is-missing::before,
+.product-card-image:has(.product-card-placeholder)::before {
+  opacity: 1;
+}
+.product-card-image > img:not(.image-placeholder-logo) {
+  position: relative;
+  z-index: 1;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
 }
 .product-card-placeholder {
+  position: relative;
+  z-index: 2;
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--ink-muted);
+  color: rgba(90, 90, 90, 0.34);
+}
+.image-placeholder-fallback {
+  display: none;
+}
+.product-card-image.is-missing .image-placeholder-fallback,
+.detail-image.is-missing .image-placeholder-fallback {
+  display: flex;
+}
+
+.image-placeholder-glass {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  width: 100%;
+  height: 100%;
+  background: rgba(232, 243, 237, 0.42);
+  -webkit-backdrop-filter: blur(18px) saturate(1.1);
+  backdrop-filter: blur(18px) saturate(1.1);
+}
+.image-placeholder-icon {
+  opacity: 0.55;
+}
+.image-placeholder-logo {
+  width: min(92px, 42%);
+  height: auto;
+  opacity: 0.78;
+  filter: drop-shadow(0 10px 18px rgba(26, 26, 26, 0.06));
 }
 
 .product-card-booking {
@@ -256,20 +387,23 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   font-weight: 600;
 }
 
-/* ========== Карточка товара ========== */
+/* ========== РљР°СЂС‚РѕС‡РєР° С‚РѕРІР°СЂР° ========== */
 .detail-image {
   width: 100%;
   aspect-ratio: 1;
-  background: var(--bg-soft);
+  background:
+    radial-gradient(circle at 24% 14%, rgba(255,255,255,0.96), rgba(255,255,255,0) 32%),
+    linear-gradient(135deg, rgba(232,243,237,0.9), rgba(240,247,243,0.68));
   border-radius: var(--radius-lg);
   overflow: hidden;
   margin-bottom: 16px;
   position: relative;
 }
-.detail-image img {
+.detail-image > img:not(.image-placeholder-logo) {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
 }
 .detail-image-placeholder {
   width: 100%;
@@ -277,7 +411,10 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--ink-muted);
+  color: rgba(90, 90, 90, 0.34);
+}
+.detail-image-placeholder .image-placeholder-logo {
+  width: min(116px, 38%);
 }
 
 .detail-close {
@@ -365,7 +502,7 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   margin-top: 24px;
 }
 
-/* ========== Кнопки ========== */
+/* ========== РљРЅРѕРїРєРё ========== */
 .btn-dark {
   width: 100%;
   padding: 16px;
@@ -385,7 +522,7 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
 }
 .btn-dark:active { background: #000; }
 
-/* ========== Состояния ========== */
+/* ========== РЎРѕСЃС‚РѕСЏРЅРёСЏ ========== */
 .empty {
   text-align: center;
   padding: 48px 20px;
@@ -398,4 +535,33 @@ body { padding-bottom: calc(40px + env(safe-area-inset-bottom)); }
   padding: 40px 20px;
   font-size: 14px;
   color: var(--ink-muted);
+}
+
+
+/* ========== РђРґР°РїС‚Р°С†РёСЏ С€Р°РїРєРё Рё liquid glass ========== */
+@media (max-width: 420px) {
+  .header {
+    min-height: 92px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .header-brand {
+    width: clamp(188px, 62vw, 250px);
+    height: 64px;
+    padding: 0 30px;
+  }
+
+  .brand-logo {
+    height: 32px;
+    max-width: 138px;
+  }
+
+  .screen {
+    padding-top: 16px;
+  }
+
+  .hero {
+    border-radius: 26px;
+  }
 }
