@@ -43,18 +43,27 @@ function escapeHtml(s) {
 }
 
 function productImageHtml(p, big) {
-  if (p.photo) {
-    return `<img src="${escapeHtml(p.photo)}" alt="${escapeHtml(p.name)}" loading="lazy">`;
-  }
-  const size = big ? 48 : 28;
   const cls = big ? "detail-image-placeholder" : "product-card-placeholder";
-  return `<div class="${cls}">
-    <svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-      <rect x="3" y="3" width="18" height="18" rx="2"/>
-      <circle cx="9" cy="9" r="2"/>
-      <path d="M21 15l-5-5L5 21"/>
-    </svg>
-  </div>`;
+  const size = big ? 54 : 34;
+
+  const fallbackClass = p.photo ? " image-placeholder-fallback" : "";
+  const placeholder = `
+    <div class="${cls}${fallbackClass}">
+      <div class="image-placeholder-glass">
+        <svg class="image-placeholder-icon" width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.45">
+          <rect x="3" y="3" width="18" height="18" rx="3"/>
+          <circle cx="9" cy="9" r="2"/>
+          <path d="M21 15l-5-5L5 21"/>
+        </svg>
+        <img class="image-placeholder-logo" src="logo.png" alt="Fresh Decor">
+      </div>
+    </div>`;
+
+  if (p.photo) {
+    return `<img src="${escapeHtml(p.photo)}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.parentElement.classList.add('is-missing'); this.remove();">${placeholder}`;
+  }
+
+  return placeholder;
 }
 
 // ===== Навигация =====
