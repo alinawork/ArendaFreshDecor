@@ -6463,7 +6463,7 @@
     },
     {
       "sku": "00819",
-      "name": "Шкура коровы (черн, корич, бел)",
+      "name": "Шкура коровы (черно-коричнево-белая)",
       "category": "Аксессуары",
       "subcategory": "Ковры",
       "qty": 1,
@@ -6486,6 +6486,110 @@
       "photo": "https://drive.google.com/thumbnail?id=1oCJqRypePuZRgebmSuPa166BMJyzQbOt&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00821",
+      "name": "Шкура коровы (коричнево-белая)",
+      "category": "Аксессуары",
+      "subcategory": "Ковры",
+      "qty": 1,
+      "price": 45.0,
+      "notes": "140х158 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1x9_uzX29gYZuW8D8hzIT_nYATz2MuD7h",
+      "photo": "https://drive.google.com/thumbnail?id=17V8p_I2EdSv64AtYFl8OiE1laFUyTPkA&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00822",
+      "name": "Шкура коровы (коричнево-белая)",
+      "category": "Аксессуары",
+      "subcategory": "Ковры",
+      "qty": 9,
+      "price": 25.0,
+      "notes": "110х75 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1YVlq8goN4p8-sloVqxuY9bx3-HTHsaDw",
+      "photo": "https://drive.google.com/thumbnail?id=1MludA30jm53b5JX616P5Q4JpYdsX4cBf&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00823",
+      "name": "Шкура коровы (коричнево-белая)",
+      "category": "Аксессуары",
+      "subcategory": "Ковры",
+      "qty": 1,
+      "price": 50.0,
+      "notes": "158х190 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1Yst8DJZtTuDW_1ON_g6QMDFk7HRscVzG",
+      "photo": "https://drive.google.com/thumbnail?id=1htvwfWlTILFyOVIK9uhOCRP32Srn34gD&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00825",
+      "name": "Зонты уличные “Marseille” (бежевый)",
+      "category": "",
+      "subcategory": "Зонты",
+      "qty": 4,
+      "price": 165.0,
+      "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1bQyjDK6BQGCpj8GjkDEfnzCPn_ZgrM7n",
+      "photo": "https://drive.google.com/thumbnail?id=1QezP3-MzyfnFR-RRvAxMRnOxQ1CNzHVk&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00826",
+      "name": "Зонты уличные “Marseille” (бордовый)",
+      "category": "",
+      "subcategory": "Зонты",
+      "qty": 4,
+      "price": 165.0,
+      "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1_jQAoDqQy03trTQXoX5g-Ojgi6OiNOwT",
+      "photo": "https://drive.google.com/thumbnail?id=1QFkUzGRUdQRj5mdYZR9paVEn10t197Cc&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00827",
+      "name": "Зонты уличные “Marseille” (белый)",
+      "category": "",
+      "subcategory": "Зонты",
+      "qty": 4,
+      "price": 165.0,
+      "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1HxmkSzD1Mf9-6odR6Np20ARxu09IjJXB",
+      "photo": "https://drive.google.com/thumbnail?id=1mIXR1jdQVivcbjjfZcpSSH4eohALC-Of&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00828",
+      "name": "Подносы “Classic”",
+      "category": "Посуда",
+      "subcategory": "Подносы / Подставки",
+      "qty": 10,
+      "price": 5.0,
+      "notes": "23х9см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1pMnIi2SoEyZDGOFG5mpd1fQ9JDcTQ4iu",
+      "photo": "https://drive.google.com/thumbnail?id=1vnvd1ccEw992JTnfZ3hBNd1gv7obUyQE&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00829",
+      "name": "Подносы “Classic”",
+      "category": "Посуда",
+      "subcategory": "Подносы / Подставки",
+      "qty": 10,
+      "price": 6.0,
+      "notes": "30х12см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1Gujqwh1PrkhnX_YGrhFQuFzeSDr--Axk",
+      "photo": "https://drive.google.com/thumbnail?id=1h941ooVefMYEMdnXYflhtcxZTC3KQFep&sz=w1000",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -6493,6 +6597,7 @@
     "Бюсты",
     "Вазы",
     "Зеркала",
+    "Зонты",
     "Камни",
     "Канделябры",
     "Ковры",
@@ -6518,6 +6623,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 499,
+  "total": 507,
   "booked": 12
 }
