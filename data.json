@@ -5517,9 +5517,9 @@
       "name": "Люстра",
       "category": "Освещение",
       "subcategory": "Люстры",
-      "qty": 1,
+      "qty": 2,
       "price": 150.0,
-      "notes": "",
+      "notes": "ШхВ / 90х100см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14tygcCMtbxV7ai9dW_8jXh67KsGrXalp",
       "photo": "https://drive.google.com/thumbnail?id=1SrCBXR7ZOdcWF0JbXWgs_SFpJV8G6pYj&sz=w1000",
       "booked": false,
@@ -6453,13 +6453,13 @@
       "name": "Люстра",
       "category": "Освещение",
       "subcategory": "Люстры",
-      "qty": 1,
+      "qty": 3,
       "price": 75.0,
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1Yk7RHvDgE1qUfuSUB5kEri-3aDrNwcjb",
       "photo": "https://drive.google.com/thumbnail?id=1W2pxOCaRhBTOJInJ4yWV2URffla4p1sz&sz=w1000",
-      "booked": true,
-      "booked_until": "22.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00819",
@@ -6590,6 +6590,97 @@
       "photo": "https://drive.google.com/thumbnail?id=1h941ooVefMYEMdnXYflhtcxZTC3KQFep&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00830",
+      "name": "Подносы “Vintage”",
+      "category": "Посуда",
+      "subcategory": "Подносы / Подставки",
+      "qty": 12,
+      "price": 10.0,
+      "notes": "175х98х10мм",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1gt4G8LThTDtdYM3-e8j07xFXK0NBgXwl",
+      "photo": "https://drive.google.com/thumbnail?id=1fHzNFpukrVTfSq4UD1k22fhlHaLJKm0V&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00831",
+      "name": "Подносы “Vintage”",
+      "category": "Посуда",
+      "subcategory": "Подносы / Подставки",
+      "qty": 12,
+      "price": 12.0,
+      "notes": "215х140х10мм",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1ojWYFLHBkb0tbCVboX2qHg4JUPf4yC3A",
+      "photo": "https://drive.google.com/thumbnail?id=1BqsXCqkJeMghTRGDso8sxh0E1x7yWeZJ&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00832",
+      "name": "Подносы “Vintage”",
+      "category": "Посуда",
+      "subcategory": "Подносы / Подставки",
+      "qty": 12,
+      "price": 14.0,
+      "notes": "400х260х10мм",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1u5G_YV9ieOWK8jfOkK_F4lwyRYklcMpu",
+      "photo": "https://drive.google.com/thumbnail?id=1ZrvTXLdRGwF8_JVUBWWNVbbK4-cbQonV&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00834",
+      "name": "Люстра",
+      "category": "Освещение",
+      "subcategory": "Люстры",
+      "qty": 6,
+      "price": 150.0,
+      "notes": "состояние (некоторые требуют доработки)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/12AGY2IZm14J1uO9X9wL85pJneHZxYAWe",
+      "photo": "https://drive.google.com/thumbnail?id=1xvRH0g0ioI2BTyh1lr5d6I3QVMUnqyCt&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00835",
+      "name": "Чаша “Grande”",
+      "category": "Центральные элементы",
+      "subcategory": "Чаши / Стойки",
+      "qty": 4,
+      "price": 25.0,
+      "notes": "диаметр чаши 39 см, диаметр пятки 18,5 см, высота 25 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/11iRywb7jkrr8t2mQijQq8TuZpuMKWzDw",
+      "photo": "https://drive.google.com/thumbnail?id=1-YSSD4zrtx31lt3Md19KNbWqHwRv1DOA&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00836",
+      "name": "Креманка “Lumi” с фигурной ножкой",
+      "category": "Центральные элементы",
+      "subcategory": "Чаши / Стойки",
+      "qty": 26,
+      "price": 4.5,
+      "notes": "диаметр чаши 10см, диаметр пятки 6см, высота 7.5см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1sX6gxRPZZ5poC6qP1-lPqXyXYIUfV0NF",
+      "photo": "https://drive.google.com/thumbnail?id=1QkMZ56n5DdRLWB-_tUktszpxaKqOIJiB&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00837",
+      "name": "Креманка “Lumi”",
+      "category": "Центральные элементы",
+      "subcategory": "Чаши / Стойки",
+      "qty": 50,
+      "price": 3.5,
+      "notes": "диаметр чаши 11,2 см, диаметр пятки 6,5 см, высота 11,8 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1TFEVL96hBbqKx52JAaE4-LTsVSScnSxw",
+      "photo": "https://drive.google.com/thumbnail?id=1OafSoCGbOocuIjEfsIt-T4xd6cFZM1Nq&sz=w1000",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -6623,6 +6714,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 507,
-  "booked": 12
+  "total": 514,
+  "booked": 11
 }
