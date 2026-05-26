@@ -5483,8 +5483,8 @@
       "notes": "45х45см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1a3heqaPYlhKmeMgB3QUIKLHKbLS7XSyH",
       "photo": "https://drive.google.com/thumbnail?id=1OUk_vKfMRU-FlCUyjug8nrUWcVB2-Bsv&sz=w1000",
-      "booked": true,
-      "booked_until": "25.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00634",
@@ -5496,8 +5496,8 @@
       "notes": "40х40см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1irK7kUKvACqc4_LjSmw_p1u_6GCOGlXx",
       "photo": "https://drive.google.com/thumbnail?id=19VBrDeZKk9-Ix3fUQ3h3_v9S4wtrFetw&sz=w1000",
-      "booked": true,
-      "booked_until": "25.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00666",
@@ -5639,8 +5639,8 @@
       "notes": "Высота60см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1eFetj-x84o7d7EiITvIheVFJ_EE9qvnp",
       "photo": "https://drive.google.com/thumbnail?id=1uEDttBtPjnV2ZnTXHw0bR4UP2q9S1rtr&sz=w1000",
-      "booked": true,
-      "booked_until": "25.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00724",
@@ -5652,8 +5652,8 @@
       "notes": "Высота85см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14XQUIENWB9dv2jFZcUMhVV-x4G0n9uGB",
       "photo": "https://drive.google.com/thumbnail?id=1CEb5njPJ9alL17LnyK8qX0iki01ut9zs&sz=w1000",
-      "booked": true,
-      "booked_until": "25.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00725",
@@ -5665,8 +5665,8 @@
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14TY9mSt0zLOGHd2lhuBddeWy6wdGxmXW",
       "photo": "https://drive.google.com/thumbnail?id=1eQ28FFFxmjJ4Q8JXs1TY2KWuYXOwEQnO&sz=w1000",
-      "booked": true,
-      "booked_until": "25.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00726",
@@ -5727,7 +5727,7 @@
       "subcategory": "Стойки",
       "qty": 18,
       "price": 120.0,
-      "notes": "Стойка-18шт (2,45м-6,00м)Перекладина-30шт (2,45м-4,20м)Пятка (опора) - 18шт (600х600х5мм)Подвесы карнизные: 20шт - 85мм; 20шт - 190мм; 18шт - 240ммХомуты для перемычек 18штСтойка+Перекладина+Стойка+Пятка 2шт = 40$Стойка+Перекладина+Пятка 1шт = 26$",
+      "notes": "Стойка-18шт (2,45м-6,00м)Перекладина-16шт (2,45м-4,20м)Перекладина-14шт (2,14м-3,66м)Пятка (опора) - 18шт (600х600х5мм)Подвесы карнизные: 20шт - 85мм; 20шт - 190мм; 18шт - 240ммХомуты для перемычек 18штСтойка+Перекладина+Стойка+Пятка 2шт = 40$Стойка+Перекладина+Пятка 1шт = 26$",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1xFRsOJmEPJbcOqGpeLfH_Tiw2LXaB-SI",
       "photo": "https://drive.google.com/thumbnail?id=10bCPWII-fFz66iHnhesZ26FX7gf6mceH&sz=w1000",
       "booked": false,
@@ -6681,6 +6681,32 @@
       "photo": "https://drive.google.com/thumbnail?id=1OafSoCGbOocuIjEfsIt-T4xd6cFZM1Nq&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00838",
+      "name": "Держатель ценника металлический",
+      "category": "Центральные элементы",
+      "subcategory": "Номерки на столы",
+      "qty": 6,
+      "price": 5.0,
+      "notes": "Высота 80мм.",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1YAZmA3l1UdkQ9AEOm8vpL0EaXNlDcc8P",
+      "photo": "https://drive.google.com/thumbnail?id=1soMjTp4eqF5fxCVnfPQY-Xt-8e5Z2Hoy&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00839",
+      "name": "Кресло-мяч \"Форвард\"",
+      "category": "Мебель",
+      "subcategory": "Кресло",
+      "qty": 5,
+      "price": 60.0,
+      "notes": "Диаметр 110см. Удобно сидеть при росте до 200 см.",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1wV880XyVooz7V_fiEN9mh__Sza9l39QB",
+      "photo": "https://drive.google.com/thumbnail?id=12YKt9dLVlcFuD8CBQQHpSAl-xtUw7Zqu&sz=w1000",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -6693,6 +6719,7 @@
     "Канделябры",
     "Ковры",
     "Колбы",
+    "Кресло",
     "Лампы",
     "Люстры",
     "Мольберты",
@@ -6714,6 +6741,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 514,
-  "booked": 11
+  "total": 516,
+  "booked": 6
 }
