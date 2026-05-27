@@ -5587,8 +5587,8 @@
       "notes": "Высота30см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1S2blKsz6nzREJdQzjNHrXjum6Wdq4zL8",
       "photo": "https://drive.google.com/thumbnail?id=1UAYh_UPXGTLJrydqCDGvitbyoKzm924x&sz=w1000",
-      "booked": true,
-      "booked_until": "28.05"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00716",
@@ -6742,5 +6742,5 @@
     "Шкатулки"
   ],
   "total": 516,
-  "booked": 6
+  "booked": 5
 }
