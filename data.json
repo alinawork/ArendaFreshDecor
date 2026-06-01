@@ -5623,7 +5623,7 @@
       "subcategory": "Мольберты",
       "qty": 3,
       "price": 30.0,
-      "notes": "",
+      "notes": "Высота 145см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1vLC_VhvqkIiJ5zjXi3WfscXBtVSkADG4",
       "photo": "https://drive.google.com/thumbnail?id=1FxsQxrG9NlU72Jc4DI00qD_aIabRZtJq&sz=w1000",
       "booked": false,
@@ -5691,6 +5691,19 @@
       "notes": "1400х870мм",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1c3Zw0iIvwqCtNY3ZW_VPF9SJmTX26Lyy",
       "photo": "https://drive.google.com/thumbnail?id=1LjFfL8E7SfGYVnFrmewYwu5v9Umwagek&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00729",
+      "name": "Стеллаж (металлопрофиль, золото, полки зеркало)",
+      "category": "Мебель",
+      "subcategory": "Стеллажи",
+      "qty": 6,
+      "price": 90.0,
+      "notes": "Стеллаж (полки зеркало) размеры одного модуля.pdf",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1QYIzu7zrBxCMSfFLZzNUCeSSRo6VQWiQ",
+      "photo": "https://drive.google.com/thumbnail?id=1j67yGkPw3kVAJA0qwpz_Dh-B2yKLmJBm&sz=w1000",
       "booked": false,
       "booked_until": ""
     },
@@ -5843,7 +5856,7 @@
       "category": "",
       "subcategory": "Зеркала",
       "qty": 1,
-      "price": 110.0,
+      "price": 80.0,
       "notes": "80см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1modiWnxsTeyIKDjb_6n8DzY88p8X_wHI",
       "photo": "https://drive.google.com/thumbnail?id=12Xz_XarafJ7B1QYYkCVx4JrrKSFFLAIN&sz=w1000",
@@ -6732,6 +6745,7 @@
     "Рамки / Мольберты",
     "Ретро",
     "Свечи светодиодные",
+    "Стеллажи",
     "Стойки",
     "Столы",
     "Ткань",
@@ -6741,6 +6755,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 516,
+  "total": 517,
   "booked": 5
 }
