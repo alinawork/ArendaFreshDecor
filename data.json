@@ -5522,8 +5522,8 @@
       "notes": "ШхВ / 90х100см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14tygcCMtbxV7ai9dW_8jXh67KsGrXalp",
       "photo": "https://drive.google.com/thumbnail?id=1SrCBXR7ZOdcWF0JbXWgs_SFpJV8G6pYj&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "06.06"
     },
     {
       "sku": "00668",
@@ -5700,7 +5700,7 @@
       "category": "Мебель",
       "subcategory": "Стеллажи",
       "qty": 6,
-      "price": 90.0,
+      "price": 300.0,
       "notes": "Стеллаж (полки зеркало) размеры одного модуля.pdf",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1QYIzu7zrBxCMSfFLZzNUCeSSRo6VQWiQ",
       "photo": "https://drive.google.com/thumbnail?id=1j67yGkPw3kVAJA0qwpz_Dh-B2yKLmJBm&sz=w1000",
@@ -6666,8 +6666,8 @@
       "notes": "диаметр чаши 39 см, диаметр пятки 18,5 см, высота 25 см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/11iRywb7jkrr8t2mQijQq8TuZpuMKWzDw",
       "photo": "https://drive.google.com/thumbnail?id=1Ww0MeHeEKmEg_p5d0JyMdnmtOBdXsyFh&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "03.06"
     },
     {
       "sku": "00836",
@@ -6720,6 +6720,188 @@
       "photo": "https://drive.google.com/thumbnail?id=12YKt9dLVlcFuD8CBQQHpSAl-xtUw7Zqu&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00840",
+      "name": "Лампа “Oslo” (серебро)",
+      "category": "Освещение",
+      "subcategory": "Торшеры",
+      "qty": 16,
+      "price": 27.0,
+      "notes": "20,5x15,5 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1RDV363CaWgRkHU-vWqQ5t5WQ2WBR23CO",
+      "photo": "https://drive.google.com/thumbnail?id=1e5ExxvaES4mW0afx2cuLHAqgxTVjPDSS&sz=w1000",
+      "booked": true,
+      "booked_until": "03.06"
+    },
+    {
+      "sku": "00841",
+      "name": "Лампа “Oslo” (золото)",
+      "category": "Освещение",
+      "subcategory": "Торшеры",
+      "qty": 16,
+      "price": 27.0,
+      "notes": "20,5x15,5 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/102ad4lqrQBMzbrKMWiRH-vhGWMpx-Vjm",
+      "photo": "https://drive.google.com/thumbnail?id=1C5P5bHJ52hsHcehDaZARx_rzANOHTv2M&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00842",
+      "name": "Лампа “Aura” (серебро)",
+      "category": "Освещение",
+      "subcategory": "Торшеры",
+      "qty": 20,
+      "price": 29.0,
+      "notes": "28,5х13 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1zYooDLArkV0cnZ9LzA6ehYOc2D4dE5OM",
+      "photo": "https://drive.google.com/thumbnail?id=1-MHNgyJ0w77qPaLvV59OMCzoGfxCaZZz&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00843",
+      "name": "Лампа “Aura” (золото)",
+      "category": "Освещение",
+      "subcategory": "Торшеры",
+      "qty": 20,
+      "price": 29.0,
+      "notes": "28,5х13 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1ijsPhpWejq_MEwm2mvnfx0VTHyeLi3JI",
+      "photo": "https://drive.google.com/thumbnail?id=1p2jtpXmQdSMR8ROsMSxmRJLQRHa4yXK4&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00844",
+      "name": "Зонт уличный “Saint”",
+      "category": "",
+      "subcategory": "Зонты",
+      "qty": 6,
+      "price": 145.0,
+      "notes": "Диаметр 180 см.Высота 215 см. нога регулируемая угол уклона, дерево",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1QjlhVsawEyOGSy_5gIK3SYA3wrAOw8Oj",
+      "photo": "https://drive.google.com/thumbnail?id=1fWo2ffmsFr4X8drU_KY3yvvDCwI4zJN3&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00847",
+      "name": "Подсвечник \"Mono\" (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "23х2х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1VwrIgBppfcSCXyC7BdOY1ytXNJgsK1OT",
+      "photo": "https://drive.google.com/thumbnail?id=1Dm5VjzvxRaBlqR6x1nyC0-7JLTsQRvbY&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00848",
+      "name": "Подсвечник \"Mono\" (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "19х2х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1R5KrifFVMUai9QKFnS7UW_uV7NOe7vZR",
+      "photo": "https://drive.google.com/thumbnail?id=1Et5dUX4xgKmQUjscDdSW_1M3KO5NrvZ0&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00849",
+      "name": "Подсвечник \"Mono\" (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "15х2х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1_y3l5IYJ3Gk9Bz2A0NQYB_Kbv0XbTnr4",
+      "photo": "https://drive.google.com/thumbnail?id=18qqzYU8tTKNWStutl-Ui8I-nEZTJIj7n&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00850",
+      "name": "Подсвечник \"Grace\"фигурный (серебро)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "23х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1YKJSomlRVHQWiUj3J2T-2ncxH03bJ0ja",
+      "photo": "https://drive.google.com/thumbnail?id=1f6pssYhJ6z8QLocXeNAltVhkBHgd9IIv&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00851",
+      "name": "Подсвечник \"Grace\"фигурный (серебро)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "19х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1yXfkQWu9mvyMDmMOQ2JYXwAtQOGnTOfj",
+      "photo": "https://drive.google.com/thumbnail?id=1T2HJDoNnLWbAzR1v84oKN75MBSs4a_VD&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00852",
+      "name": "Подсвечник \"Grace\"фигурный (серебро)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "15х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1Nz8wNQBP8CeRvGOtEFv02i95x-9f5JtD",
+      "photo": "https://drive.google.com/thumbnail?id=1anxoTQ8evTY8INba_2LAQz39RmBge-6G&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00853",
+      "name": "Подсвечник \"Grace\"фигурный (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "23х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1ZeuowHjz3hyC_UEz9aY-f2FDLgMl5MkO",
+      "photo": "https://drive.google.com/thumbnail?id=1Q2tuPh21aZBn4eAI0smK5Us-p0hk3mvO&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00854",
+      "name": "Подсвечник \"Grace\"фигурный (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "19х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1G-2lkMbtxMmHx8Q3PiK1ak3NZRw0hJV4",
+      "photo": "https://drive.google.com/thumbnail?id=1ZCEVTqqzLZ4rDXT9K3lDXuat4z2wspZT&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00855",
+      "name": "Подсвечник \"Grace\"фигурный (золото)",
+      "category": "Центральные элементы",
+      "subcategory": "Подсвечники",
+      "qty": 6,
+      "price": 20.0,
+      "notes": "15х2,5х6,8 см (пятка)",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/13tB6t4ctBGjGHjpA8VaaagovPOFTGXG1",
+      "photo": "https://drive.google.com/thumbnail?id=15Sp96vx8DHWNktqv6geGfGtyBD-mHmlN&sz=w1000",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -6755,6 +6937,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 517,
-  "booked": 5
+  "total": 531,
+  "booked": 8
 }
