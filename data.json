@@ -5847,8 +5847,8 @@
       "notes": "60см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1wLdG5rUzzoNimcZ7V3qcZRDVo8j-Q_MW",
       "photo": "https://drive.google.com/thumbnail?id=16m1Z91Xmf9E__jym5AE4SEfXnbA1woXr&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "04.06"
     },
     {
       "sku": "00768",
@@ -6549,8 +6549,8 @@
       "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1bQyjDK6BQGCpj8GjkDEfnzCPn_ZgrM7n",
       "photo": "https://drive.google.com/thumbnail?id=1QezP3-MzyfnFR-RRvAxMRnOxQ1CNzHVk&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "22.06"
     },
     {
       "sku": "00826",
@@ -6666,15 +6666,15 @@
       "notes": "диаметр чаши 39 см, диаметр пятки 18,5 см, высота 25 см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/11iRywb7jkrr8t2mQijQq8TuZpuMKWzDw",
       "photo": "https://drive.google.com/thumbnail?id=1Ww0MeHeEKmEg_p5d0JyMdnmtOBdXsyFh&sz=w1000",
-      "booked": true,
-      "booked_until": "03.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00836",
       "name": "Креманка “Lumi” с фигурной ножкой",
       "category": "Центральные элементы",
       "subcategory": "Чаши / Стойки",
-      "qty": 26,
+      "qty": 24,
       "price": 4.5,
       "notes": "диаметр чаши 10см, диаметр пятки 6см, высота 7.5см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1sX6gxRPZZ5poC6qP1-lPqXyXYIUfV0NF",
@@ -6687,7 +6687,7 @@
       "name": "Креманка “Lumi”",
       "category": "Центральные элементы",
       "subcategory": "Чаши / Стойки",
-      "qty": 50,
+      "qty": 54,
       "price": 3.5,
       "notes": "диаметр чаши 11,2 см, диаметр пятки 6,5 см, высота 11,8 см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1TFEVL96hBbqKx52JAaE4-LTsVSScnSxw",
@@ -6731,8 +6731,8 @@
       "notes": "20,5x15,5 см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1RDV363CaWgRkHU-vWqQ5t5WQ2WBR23CO",
       "photo": "https://drive.google.com/thumbnail?id=1e5ExxvaES4mW0afx2cuLHAqgxTVjPDSS&sz=w1000",
-      "booked": true,
-      "booked_until": "03.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00841",
