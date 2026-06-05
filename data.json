@@ -5847,8 +5847,8 @@
       "notes": "60см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1wLdG5rUzzoNimcZ7V3qcZRDVo8j-Q_MW",
       "photo": "https://drive.google.com/thumbnail?id=16m1Z91Xmf9E__jym5AE4SEfXnbA1woXr&sz=w1000",
-      "booked": true,
-      "booked_until": "04.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00768",
@@ -6938,5 +6938,5 @@
     "Шкатулки"
   ],
   "total": 531,
-  "booked": 8
+  "booked": 7
 }
