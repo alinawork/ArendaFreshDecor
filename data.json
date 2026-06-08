@@ -5522,8 +5522,8 @@
       "notes": "ШхВ / 90х100см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14tygcCMtbxV7ai9dW_8jXh67KsGrXalp",
       "photo": "https://drive.google.com/thumbnail?id=1SrCBXR7ZOdcWF0JbXWgs_SFpJV8G6pYj&sz=w1000",
-      "booked": true,
-      "booked_until": "#N/A"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00668",
@@ -5731,7 +5731,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/1vSxBlAXCYFnVp0QiKjxs5XvCgcJYCDgh",
       "photo": "https://drive.google.com/thumbnail?id=18mva_ysBmFU83O70HL1C0JC1NtixzHUJ&sz=w1000",
       "booked": true,
-      "booked_until": "13.06"
+      "booked_until": "11.06"
     },
     {
       "sku": "00732",
@@ -6700,7 +6700,7 @@
       "name": "Держатель ценника металлический",
       "category": "Центральные элементы",
       "subcategory": "Номерки на столы",
-      "qty": 6,
+      "qty": 15,
       "price": 5.0,
       "notes": "Высота 80мм.",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1YAZmA3l1UdkQ9AEOm8vpL0EaXNlDcc8P",
@@ -6938,5 +6938,5 @@
     "Шкатулки"
   ],
   "total": 531,
-  "booked": 7
+  "booked": 6
 }
