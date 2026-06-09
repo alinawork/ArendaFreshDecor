@@ -5522,8 +5522,8 @@
       "notes": "ШхВ / 90х100см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/14tygcCMtbxV7ai9dW_8jXh67KsGrXalp",
       "photo": "https://drive.google.com/thumbnail?id=1SrCBXR7ZOdcWF0JbXWgs_SFpJV8G6pYj&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "13.08"
     },
     {
       "sku": "00668",
@@ -5531,12 +5531,12 @@
       "category": "Освещение",
       "subcategory": "Стойки",
       "qty": 10,
-      "price": 50.0,
+      "price": 60.0,
       "notes": "Стойка размеры.pdf",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1G4QnMZR6DVVde12OFLN7BJmNGfdGZ0nb",
       "photo": "https://drive.google.com/thumbnail?id=1OWWwUS_ExILWxzabyWtQzuFJbtn-oAF0&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "12.0613.08"
     },
     {
       "sku": "00699",
@@ -5691,8 +5691,8 @@
       "notes": "1400х870мм",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1c3Zw0iIvwqCtNY3ZW_VPF9SJmTX26Lyy",
       "photo": "https://drive.google.com/thumbnail?id=1LjFfL8E7SfGYVnFrmewYwu5v9Umwagek&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "15.06"
     },
     {
       "sku": "00729",
@@ -6471,8 +6471,8 @@
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1Yk7RHvDgE1qUfuSUB5kEri-3aDrNwcjb",
       "photo": "https://drive.google.com/thumbnail?id=1W2pxOCaRhBTOJInJ4yWV2URffla4p1sz&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "12.06"
     },
     {
       "sku": "00819",
@@ -6642,6 +6642,19 @@
       "photo": "https://drive.google.com/thumbnail?id=17zjhNyA4Hn3inDiKgwC_N6WohXHY0c_B&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00833",
+      "name": "Люстра",
+      "category": "Освещение",
+      "subcategory": "Люстры",
+      "qty": 2,
+      "price": 150.0,
+      "notes": "ШхВ / 85х60см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1809D1wgTsu64yrbFFZjhC1ubWzfqHIMn",
+      "photo": "https://drive.google.com/thumbnail?id=1d8mt3UUWqZtQybUMsEBFnsCVIShp69fi&sz=w1000",
+      "booked": true,
+      "booked_until": "13.08"
     },
     {
       "sku": "00834",
@@ -6937,6 +6950,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 531,
-  "booked": 6
+  "total": 532,
+  "booked": 11
 }
