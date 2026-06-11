@@ -5630,6 +5630,19 @@
       "booked_until": ""
     },
     {
+      "sku": "00722",
+      "name": "Фонари (белые, стекло)",
+      "category": "",
+      "subcategory": "",
+      "qty": 2,
+      "price": 25.0,
+      "notes": "Высота40см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1UMZd7smWCXPsewKYzHc4ygvVfR98c0lK",
+      "photo": "https://drive.google.com/thumbnail?id=1DF_1y3dFQonYPziumHwLu26ckmdQSpJr&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
       "sku": "00723",
       "name": "Фонари (белые, стекло)",
       "category": "",
@@ -5691,8 +5704,8 @@
       "notes": "1400х870мм",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1c3Zw0iIvwqCtNY3ZW_VPF9SJmTX26Lyy",
       "photo": "https://drive.google.com/thumbnail?id=1LjFfL8E7SfGYVnFrmewYwu5v9Umwagek&sz=w1000",
-      "booked": true,
-      "booked_until": "15.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00729",
@@ -6950,6 +6963,6 @@
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 532,
-  "booked": 10
+  "total": 533,
+  "booked": 9
 }
