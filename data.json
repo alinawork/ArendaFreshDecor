@@ -7043,8 +7043,8 @@
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1PO8uWtr30QoPi5otc48BHaBRSWohPbda",
       "photo": "https://drive.google.com/thumbnail?id=1qCsS01mLbVhhCYO6HeVe6LDe5pV2YJQz&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "13.0617.07"
     },
     {
       "sku": "00894",
@@ -7135,5 +7135,5 @@
     "Шкатулки"
   ],
   "total": 546,
-  "booked": 8
+  "booked": 9
 }
