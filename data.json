@@ -6835,8 +6835,8 @@
       "notes": "Диаметр 180 см.Высота 215 см. нога регулируемая угол уклона, дерево",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1QjlhVsawEyOGSy_5gIK3SYA3wrAOw8Oj",
       "photo": "https://drive.google.com/thumbnail?id=1fWo2ffmsFr4X8drU_KY3yvvDCwI4zJN3&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "21.06"
     },
     {
       "sku": "00845",
@@ -7044,7 +7044,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/1PO8uWtr30QoPi5otc48BHaBRSWohPbda",
       "photo": "https://drive.google.com/thumbnail?id=1qCsS01mLbVhhCYO6HeVe6LDe5pV2YJQz&sz=w1000",
       "booked": true,
-      "booked_until": "13.0617.07"
+      "booked_until": "17.07"
     },
     {
       "sku": "00894",
@@ -7318,5 +7318,5 @@
     "Шкатулки"
   ],
   "total": 560,
-  "booked": 9
+  "booked": 10
 }
