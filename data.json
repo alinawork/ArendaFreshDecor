@@ -6588,8 +6588,8 @@
       "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1bQyjDK6BQGCpj8GjkDEfnzCPn_ZgrM7n",
       "photo": "https://drive.google.com/thumbnail?id=1QezP3-MzyfnFR-RRvAxMRnOxQ1CNzHVk&sz=w1000",
-      "booked": true,
-      "booked_until": "22.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00826",
@@ -6835,8 +6835,8 @@
       "notes": "Диаметр 180 см.Высота 215 см. нога регулируемая угол уклона, дерево",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1QjlhVsawEyOGSy_5gIK3SYA3wrAOw8Oj",
       "photo": "https://drive.google.com/thumbnail?id=1fWo2ffmsFr4X8drU_KY3yvvDCwI4zJN3&sz=w1000",
-      "booked": true,
-      "booked_until": "21.06"
+      "booked": false,
+      "booked_until": ""
     },
     {
       "sku": "00845",
@@ -7055,7 +7055,7 @@
       "price": 30.0,
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1Hamra8ChOKb6rFevu-76lWEGGiNpSuQ_",
-      "photo": "https://drive.google.com/thumbnail?id=1StmXiqJWUii4ALlR0HzWlfZ3LomsA6hw&sz=w1000",
+      "photo": "https://drive.google.com/thumbnail?id=1y6VlXDGRJd_3DWUTCS5m1dCHps6QpxK4&sz=w1000",
       "booked": false,
       "booked_until": ""
     },
@@ -7068,7 +7068,7 @@
       "price": 25.0,
       "notes": "",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1t4goMTXHvGiFnMSp2jVGjBQvU7WiXgw-",
-      "photo": "https://drive.google.com/thumbnail?id=1-dUir6LvP34bSkgMvPCofu9nz0NGloy_&sz=w1000",
+      "photo": "https://drive.google.com/thumbnail?id=1Vau1q7eZxi8jqFuKMbthSccJtzXDfC6y&sz=w1000",
       "booked": false,
       "booked_until": ""
     },
@@ -7279,6 +7279,19 @@
       "photo": "https://drive.google.com/thumbnail?id=1RidMftVt3kQitZD74-Mw16d5UiDPaqAA&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00912",
+      "name": "Цветочница бетонная (вазон)",
+      "category": "",
+      "subcategory": "Цветочницы",
+      "qty": 1,
+      "price": 60.0,
+      "notes": "",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1xQf2QGfV3egl2PU0rpGXCXJsWwu6TbZJ",
+      "photo": "",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -7312,11 +7325,12 @@
     "Ткань",
     "Торшеры",
     "Тумбы",
+    "Цветочницы",
     "Цветы / Лепестки",
     "Часы",
     "Чаши / Стойки",
     "Шкатулки"
   ],
-  "total": 560,
-  "booked": 10
+  "total": 561,
+  "booked": 8
 }
