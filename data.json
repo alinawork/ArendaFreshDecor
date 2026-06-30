@@ -6588,8 +6588,8 @@
       "notes": "Диаметр х Высота2,2х2,6м регулируемая,Нога металл",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1bQyjDK6BQGCpj8GjkDEfnzCPn_ZgrM7n",
       "photo": "https://drive.google.com/thumbnail?id=1QezP3-MzyfnFR-RRvAxMRnOxQ1CNzHVk&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "22.0627.0601.07"
     },
     {
       "sku": "00826",
@@ -6744,8 +6744,8 @@
       "notes": "диаметр чаши 11,2 см, диаметр пятки 6,5 см, высота 11,8 см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1TFEVL96hBbqKx52JAaE4-LTsVSScnSxw",
       "photo": "https://drive.google.com/thumbnail?id=1nhhaHDy9gefLLbcq5boe26G-VoWLR82A&sz=w1000",
-      "booked": false,
-      "booked_until": ""
+      "booked": true,
+      "booked_until": "26.0618.07"
     },
     {
       "sku": "00838",
@@ -7332,5 +7332,5 @@
     "Шкатулки"
   ],
   "total": 561,
-  "booked": 8
+  "booked": 10
 }
