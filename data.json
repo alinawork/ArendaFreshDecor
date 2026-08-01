@@ -310,7 +310,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/1iMSRJlbDJsdJtQw60Gw6PNzYuUZE6IIR",
       "photo": "https://drive.google.com/thumbnail?id=1irZVYAveSn5sTNl4C4OrDh8y86Dm_6xu&sz=w1000",
       "booked": true,
-      "booked_until": "31.07"
+      "booked_until": "#N/A"
     },
     {
       "sku": "00025",
@@ -323,7 +323,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/1IbQMGRefvebp7Bwih2--0Fz5oZO2Nvo8",
       "photo": "https://drive.google.com/thumbnail?id=1KrQfqOzdrWoovLb7OrXE_gSdmL7_JCQw&sz=w1000",
       "booked": true,
-      "booked_until": "31.07"
+      "booked_until": "#N/A"
     },
     {
       "sku": "00026",
