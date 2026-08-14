@@ -5523,7 +5523,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/14tygcCMtbxV7ai9dW_8jXh67KsGrXalp",
       "photo": "https://drive.google.com/thumbnail?id=1SrCBXR7ZOdcWF0JbXWgs_SFpJV8G6pYj&sz=w1000",
       "booked": true,
-      "booked_until": "13.08"
+      "booked_until": "#N/A"
     },
     {
       "sku": "00668",
@@ -5536,7 +5536,7 @@
       "drive_link": "https://drive.google.com/drive/u/0/folders/1G4QnMZR6DVVde12OFLN7BJmNGfdGZ0nb",
       "photo": "https://drive.google.com/thumbnail?id=1OWWwUS_ExILWxzabyWtQzuFJbtn-oAF0&sz=w1000",
       "booked": true,
-      "booked_until": "13.08"
+      "booked_until": "#N/A"
     },
     {
       "sku": "00699",
