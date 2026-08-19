@@ -7396,6 +7396,32 @@
       "photo": "https://drive.google.com/thumbnail?id=1NDLTWgoGpAdw1tnKkXQeg7_ZHFPlbvO2&sz=w1000",
       "booked": false,
       "booked_until": ""
+    },
+    {
+      "sku": "00922",
+      "name": "Этажерка",
+      "category": "Мебель",
+      "subcategory": "Этажерки",
+      "qty": 1,
+      "price": 100.0,
+      "notes": "ДхШхВ120х56х88см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1eVO6kWInFm1t_roE3yzZWW0R7kx8q1ho",
+      "photo": "https://drive.google.com/thumbnail?id=11zLkz4XqdO_6lpk0IjJ42Y766NHdJgUX&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00923",
+      "name": "Этажерка Antonina",
+      "category": "Мебель",
+      "subcategory": "Этажерки",
+      "qty": 1,
+      "price": 75.0,
+      "notes": "ДхШхВ38х24х54см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1MJxouc_CQ9mG8XuIRDwNFKk1LnPLzSCa",
+      "photo": "https://drive.google.com/thumbnail?id=12i6WkLxoijVaysU80qZA_j-8x_QewsJX&sz=w1000",
+      "booked": false,
+      "booked_until": ""
     }
   ],
   "categories": [
@@ -7436,8 +7462,9 @@
     "Цветы / Лепестки",
     "Часы",
     "Чаши / Стойки",
-    "Шкатулки"
+    "Шкатулки",
+    "Этажерки"
   ],
-  "total": 569,
+  "total": 571,
   "booked": 9
 }
