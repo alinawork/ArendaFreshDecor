@@ -13,7 +13,7 @@ try {
 } catch (e) {}
 
 // ===== Настройки =====
-const MANAGER_USERNAME = "AnastasiayaTrofimova";  // без @
+const MANAGER_USERNAME = "tonnnya_t";  // без @
 const FAVORITES_STORAGE_KEY = "freshdecor_favorites_v1";
 
 // ===== Состояние =====
