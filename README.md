@@ -10,7 +10,7 @@ arenda_freshdecor/
 ├── index.html          ← мини-приложение (главная)
 ├── styles.css
 ├── app.js
-├── logo.png            ← твой логотип
+├── logo.png            ← логотип
 ├── data.json           ← каталог (обновляется парсером)
 ├── build_catalog.py    ← парсер таблицы → JSON
 ├── AppsScript.gs       ← скрипт для Google Sheets (фото)
