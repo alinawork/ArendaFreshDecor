@@ -521,6 +521,32 @@
       "booked_until": ""
     },
     {
+      "sku": "00042",
+      "name": "Колба для насыпного воска",
+      "category": "Центральные элементы",
+      "subcategory": "Колбы",
+      "qty": 0,
+      "price": 30.0,
+      "notes": "арт. 00042 размеры и кол-во3 шт. — высота 60 см, диаметр 15 см4 шт. — высота 60 см, диаметр 12 см1 шт. — высота 50 см, диаметр 12 см2 шт. — высота 50 см, диаметр 10 см1 шт. — высота 40 см, диаметр 15 см1 шт. — высота 40 см, диаметр 12 см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1DacuagTG8BNr78yifR4QgI5_IbIa-pai",
+      "photo": "https://drive.google.com/thumbnail?id=11B-LV4jNSnRlXzGPlnB9nEk_G1xwLr-v&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00043",
+      "name": "Ваза Амфора стеклянная",
+      "category": "Центральные элементы",
+      "subcategory": "Колбы",
+      "qty": 1,
+      "price": 40.0,
+      "notes": "высота 53см",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1GictADT66M8l3G7tHwOWIteo6462gsRe",
+      "photo": "https://drive.google.com/thumbnail?id=1Z6KN7YJeFoq83pzIVzQK2x3acmw2yOXb&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
       "sku": "00044",
       "name": "Ваза ФИЛЛИГ (темная)",
       "category": "Центральные элементы",
@@ -3563,6 +3589,19 @@
       "booked_until": ""
     },
     {
+      "sku": "00278",
+      "name": "Чаша",
+      "category": "Центральные элементы",
+      "subcategory": "Чаши / Стойки",
+      "qty": 4,
+      "price": 15.0,
+      "notes": "",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1jTNZDa569YdVg0-1C8MUVpV4j6lWYps3",
+      "photo": "https://drive.google.com/thumbnail?id=1IqjHI_NaSpQ_59TT0zNJ7WqPvYX0a7uL&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
       "sku": "00279",
       "name": "Белая керамическая чаша (низкая)",
       "category": "Центральные элементы",
@@ -4040,6 +4079,32 @@
       "notes": "20х13см",
       "drive_link": "https://drive.google.com/drive/u/0/folders/1yGhqLf7b3pPQogCjtUGDZNPYQ4OQGqWb",
       "photo": "https://drive.google.com/thumbnail?id=1iItlIdAVP-e9dJuC4tbka7z7KIAfY6vD&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00316",
+      "name": "Бюст Давида; Бюст девушки (гипс, керамика)",
+      "category": "Аксессуары",
+      "subcategory": "Бюсты",
+      "qty": 15,
+      "price": 25.0,
+      "notes": "",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1XHW5YmkQKuuWex-eCS8409PXyMbEU6AH",
+      "photo": "https://drive.google.com/thumbnail?id=1hW_4nzkM7bTAhVr2wmyn0ZmD9TqEfkZl&sz=w1000",
+      "booked": false,
+      "booked_until": ""
+    },
+    {
+      "sku": "00317",
+      "name": "Фигурка Ангел, фигурка заяц, бюст Екатерина II",
+      "category": "Аксессуары",
+      "subcategory": "Бюсты",
+      "qty": 10,
+      "price": 25.0,
+      "notes": "",
+      "drive_link": "https://drive.google.com/drive/u/0/folders/1g6hGMQSBTjkdmYL_DLGk9RsPfk7zEgK9",
+      "photo": "https://drive.google.com/thumbnail?id=1-N8Hby2sIBVSQ4TMk8cMtjubuiOZ3vyC&sz=w1000",
       "booked": false,
       "booked_until": ""
     },
@@ -7465,6 +7530,6 @@
     "Шкатулки",
     "Этажерки"
   ],
-  "total": 571,
+  "total": 576,
   "booked": 9
 }
